@@ -36,8 +36,7 @@ Para **Linux** e outros, digite os seguintes comandos no terminal:
 ~~~python
 
 cd PyShortenerURL
-Edite este texto
-aqui com seu códigopython3 -m venv .venv
+python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requeriments.txt
 
